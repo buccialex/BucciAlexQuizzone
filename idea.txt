@@ -1,0 +1,30 @@
+Classe Domanda: 
+	attributi:
+		testo = string
+		tipo = String
+		rispostaGiusta = String
+		risposteSbagliate[String]
+		difficolta = String
+	metodi:
+		costruttore
+		isCorretta = boolean
+		
+
+Classe Quiz:
+	attributi:
+		listaDomande = ArrayList<Domanda>
+
+	metodi:
+		costruttore
+		caricaDomande
+
+Classe Player:
+	attributi:
+		punteggio = int
+		nome = string
+		streak = int
+
+Classe Conduttore:
+	attributi:
+		nome = stringa
+		
