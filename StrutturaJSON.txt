@@ -1,0 +1,121 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Musicals &amp; Theatres",
+      "question": "&quot;Doctor Who&quot; star David Tennant performed in a rendition of which Shakespearean play?",
+      "correct_answer": "Hamlet",
+      "incorrect_answers": [
+        "The Tempest",
+        "Othello",
+        "The Taming of the Shrew"
+      ]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Film",
+      "question": "In the movie The Revenant, DiCaprio&#039;s character hunts down the killer of his son.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "question": "Which of these is not a song on the album Graduation by Kanye West?",
+      "correct_answer": "Waves",
+      "incorrect_answers": [
+        "I Wonder",
+        "Big Brother",
+        "The Glory"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "What is the name of the school in the anime and manga &quot;Gosick&quot;?",
+      "correct_answer": "St. Marguerite",
+      "incorrect_answers": [
+        "St. Augustine",
+        "St. Mary",
+        "St. Bernadette"
+      ]
+    },
+    {
+      "type": "boolean",
+      "difficulty": "hard",
+      "category": "Science &amp; Nature",
+      "question": "The value of one Calorie is different than the value of one calorie.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Books",
+      "question": "American illustrator and writer Maurice Sendak is most well-known for writing which children&#039;s book?",
+      "correct_answer": "Where The Wild Things Are",
+      "incorrect_answers": [
+        "The Neverending Story",
+        "Charlie and the Chocolate Factory",
+        "The Cat in the Hat"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "question": "What was David Bowie&#039;s real surname?",
+      "correct_answer": "Jones",
+      "incorrect_answers": [
+        "Johnson",
+        "Edwards",
+        "Carter"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "question": "Which British female singer and songwriter was sampled Eminem&#039;s hit single &#039;Stan&#039;?",
+      "correct_answer": "Dido",
+      "incorrect_answers": [
+        "Adele",
+        "Lily Allen",
+        "Leona Lewis"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "In web design, what does CSS stand for?",
+      "correct_answer": "Cascading Style Sheet",
+      "incorrect_answers": [
+        "Counter Strike: Source",
+        "Corrective Style Sheet",
+        "Computer Style Sheet"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "Which of these is NOT a main playable character in &quot;Grand Theft Auto V&quot;?",
+      "correct_answer": "Lamar",
+      "incorrect_answers": [
+        "Trevor",
+        "Michael",
+        "Franklin"
+      ]
+    }
+  ]
+}
