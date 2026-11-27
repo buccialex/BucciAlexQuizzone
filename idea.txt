@@ -5,6 +5,7 @@ Classe Domanda:
 		rispostaGiusta = String
 		risposteSbagliate[String]
 		difficolta = String
+		domandaInserita:String
 	metodi:
 		costruttore
 		isCorretta = boolean
@@ -27,4 +28,6 @@ Classe Player:
 Classe Conduttore:
 	attributi:
 		nome = stringa
-		
+		dialogo = arrayList -> i dialoghi sono indicizzati, posso ripetere una frase mantenendola sempre alla stessa posizione.
+
+Per la gestione del jSon e successivamente delle API rest utilizzo un'interfaccia
